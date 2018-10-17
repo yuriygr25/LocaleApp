@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocaleApp</string>
+    <string name="hello_world">Hello, Word!!!</string>
+
+</resources>
